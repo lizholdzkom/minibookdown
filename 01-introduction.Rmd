@@ -1,0 +1,3 @@
+# Introduction
+
+This textbook addresses basic data analysis with the R programming language.
